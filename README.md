@@ -1,4 +1,8 @@
-## Hi there 👋
+I am a dedicated Information Security Specialist with a strong educational background and hands-on experience in the field. I hold a degree in Information Security, where I developed a solid foundation in protecting sensitive data and ensuring system integrity.
+
+In addition to my core expertise in information security, I have a growing interest in frontend development. I have gained practical experience in building user interfaces and improving user experiences through coding and design principles.
+
+I am also currently exploring the field of neural networks, diving into machine learning concepts and applications. This intersection of cybersecurity and artificial intelligence excites me, and I am eager to apply my knowledge in innovative ways.
 
 <!--
 **tipichniidoter/tipichniidoter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
